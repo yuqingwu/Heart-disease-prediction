@@ -4,8 +4,7 @@ Machine Learning in Finance I project
 # About Dataset
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
-# Attribute Information:
-
+## Attribute Information:
 1. age
 2. sex
 3. chest pain type (4 values)
