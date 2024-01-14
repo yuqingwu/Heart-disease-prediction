@@ -1,7 +1,14 @@
 # Heart-disease-prediction
-Machine Learning in Finance I project
+Machine Learning in Finance project
 
-# About Dataset
+## Introduction to the project
+Heard disease is a common and potentially life-threatening condition that affects millions of people worldwide. Early detection and accurate prediction of heart disease are critical for timely intervention and improvement of patient outcomes. The project aims to predict a person's likelihood of developing heart disease based on various health-related features. The predictive model utilizes machine learning algorithms to analyze and interpret the input data.
+
+## Features
+- **Data Collection:** The dataset used for training and testing the model is sourced from [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset].
+- **Data preprocessing:** 
+
+## About Dataset
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
 ## Attribute Information:
