@@ -12,23 +12,16 @@ The project involved analysis of the heart disease patient dataset with proper d
 ├── README.md 
 ├── data 
 │   ├── input 
-│   ├── models_output 
 │   └── output 
-├── models 
 ├── notebooks 
 │   ├── 01. project-description-&-data-preparation-&-EDA.ipynb 
 │   ├── 02. feature-engineering-&-feature-selection.ipynb 
-│   ├── 03. logisticR-model.ipynb 
-│   ├── 04. knn-model.ipynb 
-│   ├── 05. svr-model.ipynb 
-│   ├── 06. randomF.ipynb 
-│   └── 07. final-comparison-and-summary.ipynb
+│   └── 03. model-building-and-evaluation.ipynb
 ```
-This simple tree structure gives an overview of the main directories and files in your project.
+This simple tree structure gives an overview of the main directories and files in the project.
 
 ## Extra key information
 - **Data Collection:** The dataset used for training and testing the model is sourced from [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset].
-- **:** 
 
 ## Run the project
 - **Fork and Clone the Project Repository::** The repository can be forked and cloned to your local repository.
